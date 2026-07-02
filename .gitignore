@@ -1,0 +1,5 @@
+assets/user-photos/*
+!assets/user-photos/.gitkeep
+assets/reference-covers/*
+!assets/reference-covers/.gitkeep
+
